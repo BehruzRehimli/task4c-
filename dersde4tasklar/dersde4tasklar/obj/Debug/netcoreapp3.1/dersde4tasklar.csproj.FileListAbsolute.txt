@@ -1,0 +1,14 @@
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\bin\Debug\netcoreapp3.1\dersde4tasklar.exe
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\bin\Debug\netcoreapp3.1\dersde4tasklar.deps.json
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\bin\Debug\netcoreapp3.1\dersde4tasklar.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\bin\Debug\netcoreapp3.1\dersde4tasklar.runtimeconfig.dev.json
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\bin\Debug\netcoreapp3.1\dersde4tasklar.dll
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\bin\Debug\netcoreapp3.1\dersde4tasklar.pdb
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\obj\Debug\netcoreapp3.1\dersde4tasklar.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\obj\Debug\netcoreapp3.1\dersde4tasklar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\obj\Debug\netcoreapp3.1\dersde4tasklar.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\obj\Debug\netcoreapp3.1\dersde4tasklar.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\obj\Debug\netcoreapp3.1\dersde4tasklar.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\obj\Debug\netcoreapp3.1\dersde4tasklar.dll
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\obj\Debug\netcoreapp3.1\dersde4tasklar.pdb
+C:\Users\Ziya\Desktop\c#\dersde4tasklar\dersde4tasklar\obj\Debug\netcoreapp3.1\dersde4tasklar.genruntimeconfig.cache
